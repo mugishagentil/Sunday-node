@@ -1,0 +1,23 @@
+{
+  "name": "new-node-sunday",
+  "version": "1.0.0",
+  "description": "My Sunday Practice Node",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon --env-file=.env server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Node Course"
+  },
+  "keywords": [
+    "My",
+    "Journey"
+  ],
+  "author": "Mugisha",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
